@@ -1,0 +1,19 @@
+test_boolean_in_numbers (__main__.FlaskAPITests.test_boolean_in_numbers) ... ok
+test_hello_blank (__main__.FlaskAPITests.test_hello_blank) ... ok
+test_hello_custom (__main__.FlaskAPITests.test_hello_custom) ... ok
+test_hello_default (__main__.FlaskAPITests.test_hello_default) ... ok
+test_invalid_json (__main__.FlaskAPITests.test_invalid_json) ... ok
+test_json_array (__main__.FlaskAPITests.test_json_array) ... ok
+test_missing_numbers (__main__.FlaskAPITests.test_missing_numbers) ... ok
+test_numbers_not_list (__main__.FlaskAPITests.test_numbers_not_list) ... ok
+test_sum_decimals (__main__.FlaskAPITests.test_sum_decimals) ... ok
+test_sum_empty (__main__.FlaskAPITests.test_sum_empty) ... ok
+test_sum_integers (__main__.FlaskAPITests.test_sum_integers) ... ok
+test_sum_negative (__main__.FlaskAPITests.test_sum_negative) ... ok
+test_text_in_numbers (__main__.FlaskAPITests.test_text_in_numbers) ... ok
+test_wrong_method (__main__.FlaskAPITests.test_wrong_method) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.015s
+
+OK
